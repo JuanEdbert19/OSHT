@@ -1,0 +1,6 @@
+discord.py
+transformers
+python-dotenv
+numpy
+faiss-cpu
+sentence-transformers
